@@ -1,0 +1,7 @@
+﻿  przechodzenie_grafu.cpp
+C:\Users\danie\OneDrive\Pulpit\Algorytmy_strukturydanych_II\przechodzenie_grafu\przechodzenie_grafu\przechodzenie_grafu.cpp(175,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\danie\OneDrive\Pulpit\Algorytmy_strukturydanych_II\przechodzenie_grafu\przechodzenie_grafu\przechodzenie_grafu.cpp(178,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\danie\OneDrive\Pulpit\Algorytmy_strukturydanych_II\przechodzenie_grafu\przechodzenie_grafu\przechodzenie_grafu.cpp(209,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\danie\OneDrive\Pulpit\Algorytmy_strukturydanych_II\przechodzenie_grafu\przechodzenie_grafu\przechodzenie_grafu.cpp(242,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\danie\OneDrive\Pulpit\Algorytmy_strukturydanych_II\przechodzenie_grafu\przechodzenie_grafu\przechodzenie_grafu.cpp(122): warning C4715: "Heap::TopElem”: niewszystkie ścieżki kodu zwracają wartość
+  przechodzenie_grafu.vcxproj -> C:\Users\danie\OneDrive\Pulpit\Algorytmy_strukturydanych_II\przechodzenie_grafu\Debug\przechodzenie_grafu.exe
