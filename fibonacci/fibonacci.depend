@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571678328 source:c:\users\danie\onedrive\pulpit\algorytmy i struktury danych\fibonacci\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+
